@@ -1,0 +1,30 @@
+.site-header {
+    background-color: #914f4fcc;
+    color: #d5cdcd;
+    height: 100vh;
+    font-family: cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.site-header-content {
+    margin: 10px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: #5a3131cc 2px 5px 2px;
+}
+
+body {
+    margin: 0;
+}
+
+.ID-link {
+    color: #d5cdcd;
+}
